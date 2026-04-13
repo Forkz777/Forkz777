@@ -1,4 +1,4 @@
-## hi, i'm Forkzz
+## hi, i'm Forkzz 
 
 19yo that reads assembly for fun.
 low slop, high assembly.
@@ -14,8 +14,7 @@ low slop, high assembly.
 - more coming
 
 ## find me
-- discord: 
-- twitter/x:
+
 
 
 <!--
