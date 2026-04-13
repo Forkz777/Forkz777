@@ -1,4 +1,22 @@
-## Hi there 👋
+## hi, i'm Forkzz
+
+19yo that reads assembly for fun.
+low slop, high assembly.
+
+## what i do
+- malware analysis
+- cracking / reversing
+- ctf (still finding my footing)
+- currently obsessed with x64dbg
+
+## repos worth checking
+- [`learning`](https://github.com/Forkz777/learning) — notes, writeups, docs
+- more coming
+
+## find me
+- discord: 
+- twitter/x:
+
 
 <!--
 **Forkz777/Forkz777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
