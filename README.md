@@ -1,7 +1,6 @@
 ## hi, i'm Forkzz 
 
 19yo that reads assembly for fun.
-low slop, high assembly.
 
 ## what i do
 - malware analysis
