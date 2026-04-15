@@ -12,8 +12,6 @@
 - [`learning`](https://github.com/Forkz777/learning) — notes, writeups, docs
 - more coming
 
-## find me
-
 
 
 <!--
