@@ -3,10 +3,10 @@
 19yo that reads assembly for fun.
 
 ## what i do
-- malware analysis
-- cracking / reversing
-- ctf (still finding my footing)
-- currently obsessed with x64dbg
+- messing around
+
+  
+  
 
 ## repos worth checking
 - [`learning`](https://github.com/Forkz777/learning) — notes, writeups, docs
